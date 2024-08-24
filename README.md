@@ -1,4 +1,4 @@
-<h1 align="center">Navall.io - Front</h1>
+<h1 align="center">Edges - Front</h1>
 
 <p align="center">
 <a href="https://www.metropoledigital.ufrn.br/portal/"><img alt="UFRN - IMD" src="https://img.shields.io/badge/ufrn-imd-ufrn?style=for-the-badge&labelColor=%23164194&color=%230095DB&link=https%3A%2F%2Fwww.metropoledigital.ufrn.br%2Fportal%2F"></a>
@@ -6,7 +6,7 @@
 <a href="https://vuejs.org/"><img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"></a>
 </p>
 
-Cliente, desenvolvido com Vue.js e Tailwind CSS, para o jogo Navall.io, um projeto da disciplina de Jogos em Rede Multiusuários.
+Cliente, desenvolvido com Vue.js e Tailwind CSS, para o jogo Edges, um projeto da disciplina de Jogos em Rede Multiusuários.
 
 ## Iniciando
 
